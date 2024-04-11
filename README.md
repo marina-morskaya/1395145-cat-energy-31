@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Марина Болгова](https://up.htmlacademy.ru/adaptive/31/user/1395145).
-* Наставник: [Ольга Тюлихова](https://htmlacademy.ru/profile/id523263).
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
